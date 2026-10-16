@@ -3,7 +3,7 @@
 <p align="center">An enthusiastic student who loves exploring new things</p>
 
 👩‍💻 **About Me**
-- Currently enrolled as a first-year undergraduate student of Science Computer (Data Engineering) in Universiti Teknologi Malaysia
+- Currently enrolled as a third-year undergraduate student of Science Computer (Data Engineering) in Universiti Teknologi Malaysia
 - Outside of tech, you'll find me doing outdoor activities 🏃‍♀️ or crafting with crochet 🧶
 
 💻 **Languages & Tools**
